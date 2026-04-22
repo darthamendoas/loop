@@ -8,6 +8,6 @@ while codigo!=-1:
     elif codigo==3:
         print("Tres")
     elif codigo==-1:
-        print()
+        break
     else:
         print("Codigo invalido")
